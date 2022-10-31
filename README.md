@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Filippo</h1>
 <h3 align="center">A Student, Programmer and Dreamer</h3>
 
+<p>
+  <b>2 lines about me</b>
+  I'm currently studing at the University of Venice in Italy.
+  50% 🇮🇹 / 50% 🇫🇷
+</p>
+
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filippo-gonzato&label=Profile%20views&color=0e75b6&style=flat" alt="filippo-gonzato" /> </p>
 
