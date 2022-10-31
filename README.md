@@ -88,11 +88,16 @@
 <h3 align="left">Different types of me here:</h3>
 <p align="left">
   <a href="https://instagram.com/_filippo.gonzato_" target="blank">
-    <img align="center" src="https://github.com/filippo-gonzato/filippo-gonzato/blob/main/images/instagram-logo.svg" alt="_filippo.gonzato_" height="30" width="40" />
+    <img align="center" src="https://github.com/filippo-gonzato/filippo-gonzato/blob/main/images/instagram-logo.svg" alt="instagram" height="30" width="40" />
   </a>
   
   <a href="https://www.youtube.com/channel/UC0t_VvqqthLUZrJL38NjZUA" target="blank">
     <img align="center" src="https://github.com/filippo-gonzato/filippo-gonzato/blob/main/images/youtube-logo.svg" alt="youtube" height="30" width="40">
+  </a>
+  
+  <a href="https://twitter.com/gonzato_filippo" target="blank">
+    <img align="center" src="" alt="twitter" height="30" width="40">
+  </a>
 </p>
 
 <!--
