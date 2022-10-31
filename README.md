@@ -85,7 +85,7 @@
   </a>
 </p>
 
-<h3 align="left">You can also find me here:</h3>
+<h3 align="left">Different types of me here:</h3>
 <p align="left">
   <a href="https://instagram.com/_filippo.gonzato_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"        alt="_filippo.gonzato_" height="30" width="40" />
