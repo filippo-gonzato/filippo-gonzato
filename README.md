@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filippo</h1>
-<h3 align="center">A Student, Programmer and Dreamer</h3>
+<h2 align="center">A Student, Programmer and Dreamer</h2>
 
 <h3 align="left">3 Lines About Me</h3>
 <p>
@@ -50,6 +50,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+  
+  <br>
   
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"
