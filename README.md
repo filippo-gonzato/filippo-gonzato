@@ -91,7 +91,7 @@
     <img align="center" src="https://github.com/filippo-gonzato/filippo-gonzato/blob/main/images/instagram-logo.svg" alt="_filippo.gonzato_" height="30" width="40" />
   </a>
   
-  <a href="https://www.youtube.com/channel/UC0t_VvqqthLUZrJL38NjZUA" target="blank">
+  <a href="https://github.com/filippo-gonzato/filippo-gonzato/blob/main/images/youtube-logo.svg" target="blank">
     <img align="center" src="" alt="youtube" height="30" width="40">
 </p>
 
