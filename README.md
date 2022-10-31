@@ -96,7 +96,7 @@
   </a>
   
   <a href="https://twitter.com/gonzato_filippo" target="blank">
-    <img align="center" src="" alt="twitter" height="30" width="40">
+    <img align="center" src="https://github.com/filippo-gonzato/filippo-gonzato/blob/main/images/twitter-logo.svg" alt="twitter" height="30" width="40">
   </a>
 </p>
 
