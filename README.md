@@ -90,6 +90,9 @@
   <a href="https://instagram.com/_filippo.gonzato_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"        alt="_filippo.gonzato_" height="30" width="40" />
   </a>
+  
+  <a href="https://www.youtube.com/channel/UC0t_VvqqthLUZrJL38NjZUA" target="blank">
+    <img align="center" src="" alt="youtube" height="30" width="40">
 </p>
 
 <!--
