@@ -3,7 +3,7 @@
 
 <h3 align="left">3 Lines About Me</h3>
 <p>
-  I'm currently studying IT at the University of Venice in Italy.<br>
+  I'm currently studying IT at the University of Venice, Italy.<br>
   Everything fascinates me, even simpler things.<br>
   50% 🇮🇹 / 50% 🇫🇷
 </p>
