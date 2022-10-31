@@ -88,7 +88,7 @@
 <h3 align="left">Different types of me here:</h3>
 <p align="left">
   <a href="https://instagram.com/_filippo.gonzato_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"        alt="_filippo.gonzato_" height="30" width="40" />
+    <img align="center" src="https://github.com/filippo-gonzato/filippo-gonzato/blob/main/images/instagram-logo.svg" alt="_filippo.gonzato_" height="30" width="40" />
   </a>
   
   <a href="https://www.youtube.com/channel/UC0t_VvqqthLUZrJL38NjZUA" target="blank">
