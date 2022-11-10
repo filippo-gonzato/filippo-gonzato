@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Filippo</h1>
 <h2 align="center">A Student, Programmer and Dreamer</h2>
 
-<h3 align="left">3 Lines About Me</h3>
+<h3 align="left">2 Lines About Me</h3>
 <p>
   I'm currently studying IT at the University of Venice, Italy.<br>
   Everything fascinates me, even the simplest thing.<br>
-  50% 🇮🇹 / 50% 🇫🇷
 </p>
 
 <!--
